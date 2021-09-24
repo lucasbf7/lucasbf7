@@ -1,6 +1,6 @@
 ### Oi, eu sou o Lucas! 👋
 
-- 🔭 Estou buscando empregos na área de Dev
+- 🔭 Estou buscando empregos na área de Front-end
 - 🌱 Estou aprendendo Python, CSS, JavaScript e HTML
 - 😄 Pronouns: Ele/Dele
 
