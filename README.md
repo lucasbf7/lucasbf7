@@ -1,7 +1,8 @@
 ### Oi, eu sou o Lucas! 👋
 
 - 🔭 Estou buscando empregos na área de Front-end
-- 🌱 Estou aprendendo Python, CSS, JavaScript e HTML
+- 📖 Sei um pouco de HTML, CSS e JavaScript
+- 🌱 Estou aprendendo UX & Design Thinking
 - 😄 Pronouns: Ele/Dele
 
 <div>
