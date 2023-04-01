@@ -1,9 +1,9 @@
 ### Oi, eu sou o Lucas! 👋
 
-- 🔭 Estou buscando empregos na área de Front-end
-- 📖 Sei HTML, CSS e JavaScript, VueJS, Nodejs, Git, Ubuntu...
-- 🌱 Estou aprendendo UX e UI
+- 🔭 Estou buscando empregos na área de Front-end Júnior ou Estágio
+- 📖 Sei HTML, CSS e JavaScript, VueJS, ReactJS e NodeJS
 - 😄 Pronouns: Ele/Dele
+- Confira meus trabalhos!
 
 <div>
   <a href="https://github.com/lucasbf7">
