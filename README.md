@@ -4,7 +4,7 @@
 
 ### Hey there! 👋
 
-I'm Lucas, a junior Front-end developer and a creative thinker who specializes in React development, I'm a technology lover that enjoy making websites and applications.
+I'm Lucas, a junior Front-end developer and a creative thinker who specializes in React development, I'm a technology lover that enjoys making one of a kind websites and applications.
 
 I'm currently searching for work in Front-end development.
 
